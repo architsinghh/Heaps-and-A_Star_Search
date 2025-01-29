@@ -19,7 +19,7 @@ This project demonstrates proficiency in:
 - Template specialization
 
 **A* Search Algorithm**
-- Implementation of the A* pathfinding algorithm[1]
+- Implementation of the A* pathfinding algorithm
 - Word transformation puzzle solver ("Doublet" game)
 - Efficient graph construction and traversal
 - Heuristic-based search optimization
@@ -32,7 +32,7 @@ This project demonstrates proficiency in:
 - Custom priority calculations
 
 **Algorithms**
-- A* search with custom heuristics[1]
+- A* search with custom heuristics
 - Efficient string transformation logic
 - Optimized graph construction (sub-quadratic complexity)
 
